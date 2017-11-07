@@ -32,8 +32,10 @@ a {
   font-size: 18px;
 }
 
-h3 {
+header h3 {
   font-size: 30px;
 }
 
-header h3 a
+header h3 a {
+
+}
